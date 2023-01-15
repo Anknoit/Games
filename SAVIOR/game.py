@@ -7,7 +7,7 @@ pygame.font.init()
 font = pygame.font.Font(None, 30)
 
 
-pygame.display.set_caption("GAME NAME")
+pygame.display.set_caption("SAVIOR")
 icon = pygame.image.load("static/logo.png")
 pygame.display.set_icon(icon)
 
